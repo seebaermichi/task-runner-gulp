@@ -1,2 +1,2 @@
 # Task-Runner Gulp
-A simple collection of gulp task for use on my own.
+A simple collection of gulp tasks for use on my own.
